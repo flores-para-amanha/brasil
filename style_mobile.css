@@ -1,12 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@media (max-width: 600px) {
+
 #content{
     text-align: center;
     margin-top: 0.5rem;
 }
 
 #img{
-    width: 30rem;
+    width: 25rem;
     max-width: 100%;
 }
 
@@ -25,6 +27,8 @@
 
 #insta, img{
     margin: 0.5rem;
-    width: 8rem;
+    width: 6rem;
     max-width: 100%;
+}
+
 }
