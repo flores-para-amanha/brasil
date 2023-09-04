@@ -2,7 +2,7 @@
 
 #content{
     text-align: center;
-    margin-top: 0.5rem;
+    margin-top: 1rem;
 }
 
 #img{
@@ -12,19 +12,18 @@
 
 #title{
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 3rem;
+    font-size: 3.5rem;
     text-decoration: underline;
     margin: 0.5rem;
 }
 
 #desc{
     font-family: 'Bebas Neue', sans-serif;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     margin: 0.5rem;
 }
 
 #insta, img{
-    margin: 0.5rem;
     width: 8rem;
     max-width: 100%;
 }
